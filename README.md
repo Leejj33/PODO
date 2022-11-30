@@ -36,3 +36,12 @@
    판매 상품 및 찜 상품  조회, 거래 내역 조회
 - 관리자 페이지
   1:1 문의 및 답변 기능, 회원 조회 및 탈퇴, 상품 조회 및 상품 삭제
+  
+  <br>
+  
+  [Final Project - PODO.pdf](https://github.com/Leejj33/PODO/files/10120858/Final.Project.-.PODO.pdf)
+
+
+  
+
+  
