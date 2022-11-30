@@ -1,5 +1,6 @@
 ## 📌 PODO
 교육 과정 파이널 팀 프로젝트로 진행한 중고거래 웹서비스 입니다. <br />
+[스토리보드][Final Project - PODO.pdf](https://github.com/Leejj33/PODO/files/10120858/Final.Project.-.PODO.pdf)
 <br /> <br />
 
 ## 🛠 사용한 기술 및 도구
@@ -37,7 +38,7 @@
 - 관리자 페이지
   1:1 문의 및 답변 기능, 회원 조회 및 탈퇴, 상품 조회 및 상품 삭제
   
-[Final Project - PODO.pdf](https://github.com/Leejj33/PODO/files/10120858/Final.Project.-.PODO.pdf)
+
 
 
   
