@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/카카오 로그인 API-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/네이버 로그인 API-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <br /> <br />
 
-## 💡 구현 내용
+## 💡 구현 기능
 - 회원 기능
    회원가입, 로그인, 아이디 / 비밀번호 찾기
 - 상품 조회
@@ -38,9 +38,6 @@
 - 관리자 페이지
   1:1 문의 및 답변 기능, 회원 조회 및 탈퇴, 상품 조회 및 상품 삭제
   
-
-
-
   
-
+## 💡 담당 기능
   
